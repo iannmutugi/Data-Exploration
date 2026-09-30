@@ -1,0 +1,501 @@
+id,age,gender,education_years,experience,occupation,sector,hourly_wage,hours_per_week,region,has_certification,years_in_role,job_satisfaction,remote_work,annual_salary
+1,60,Male,18,12,Statistician,Academia,71.67,50,Midwest,1,2.0,2.0,On-site,186342
+2,50,Female,14,1,Policy Analyst,NGO,42.77,35,West,0,2.0,10.0,Full Remote,77841
+3,36,Male,16,19,Data Analyst,Private,55.31,40,West,0,3.0,8.0,Hybrid,115045
+4,64,Female,12,8,Academic,Government,47.1,40,Northeast,0,2.0,10.0,Full Remote,97968
+5,29,Female,13,0,Researcher,Academia,44.6,40,Northeast,0,1.0,9.0,Hybrid,92768
+6,42,Male,18,8,Data Analyst,NGO,55.73,50,South,0,3.0,1.0,On-site,144898
+7,60,Female,12,24,Economist,Academia,59.95,40,Midwest,1,4.0,7.0,On-site,124696
+8,40,Female,12,18,Statistician,Government,54.18,40,Northeast,0,4.0,8.0,Hybrid,112694
+9,44,Male,12,9,Statistician,Academia,54.58,45,South,1,7.0,3.0,Hybrid,127717
+10,32,Female,12,9,Statistician,Academia,51.19,40,Midwest,1,2.0,4.0,Hybrid,106475
+11,32,Male,12,9,Consultant,Academia,56.77,40,West,0,5.0,3.0,Full Remote,118082
+12,45,Female,16,28,Policy Analyst,Academia,61.18,40,South,0,8.0,7.0,On-site,127254
+13,57,Male,14,15,Policy Analyst,NGO,38.39,40,West,0,9.0,9.0,Hybrid,79851
+14,61,Female,18,15,Economist,Academia,65.76,50,Northeast,0,2.0,3.0,On-site,170976
+15,45,Male,18,20,Consultant,Government,66.01,45,Northeast,0,4.0,6.0,Full Remote,154463
+16,24,Male,13,13,Researcher,Private,50.9,40,Midwest,0,4.0,8.0,Hybrid,105872
+17,43,Female,13,9,Economist,Government,50.33,45,South,0,6.0,6.0,Hybrid,117772
+18,23,Male,14,10,Researcher,Private,54.43,40,West,0,5.0,,Full Remote,113214
+19,45,Male,16,11,Policy Analyst,Private,63.88,35,Midwest,1,1.0,7.0,Hybrid,116262
+20,51,Female,13,11,Economist,Government,58.13,40,Northeast,1,2.0,2.0,On-site,120910
+21,59,Female,16,17,Data Analyst,Private,61.64,40,Northeast,1,6.0,2.0,On-site,128211
+22,23,Female,14,12,Data Analyst,Government,47.23,40,South,0,5.0,2.0,Hybrid,98238
+23,42,Female,16,17,Statistician,NGO,62.08,40,West,0,4.0,1.0,Hybrid,129126
+24,54,Male,14,11,Academic,International Org,43.59,50,South,0,5.0,1.0,Full Remote,113334
+25,33,Male,13,12,Consultant,Government,55.92,40,West,0,4.0,7.0,On-site,116314
+26,43,Male,20,0,Researcher,International Org,52.84,40,West,0,4.0,5.0,Full Remote,109907
+27,46,Female,16,19,Data Analyst,Private,70.36,35,South,1,1.0,3.0,On-site,128055
+28,48,Female,12,14,Data Analyst,Private,59.02,35,Midwest,1,8.0,1.0,Hybrid,107416
+29,63,Female,18,19,Researcher,Government,56.06,40,South,0,2.0,10.0,Hybrid,116605
+30,49,Female,15,0,Policy Analyst,Private,50.28,40,South,0,4.0,6.0,On-site,104582
+31,37,Male,18,28,Economist,Academia,68.4,45,Northeast,0,7.0,1.0,Full Remote,160056
+32,36,Male,16,10,Policy Analyst,Academia,52.58,40,Northeast,0,6.0,9.0,Hybrid,109366
+33,24,Male,14,20,Consultant,Government,58.13,35,South,0,3.0,2.0,Hybrid,105797
+34,58,Female,12,3,Data Analyst,Government,34.31,40,South,0,5.0,1.0,Full Remote,71365
+35,28,Male,13,16,Economist,Private,62.12,40,Northeast,0,5.0,7.0,Hybrid,129210
+36,42,Female,15,3,Consultant,Private,50.1,35,West,1,3.0,6.0,On-site,91182
+37,30,Male,16,7,Statistician,Government,49.0,45,South,0,3.0,6.0,On-site,114660
+38,60,Male,13,27,Statistician,Private,70.89,35,Midwest,1,5.0,5.0,Full Remote,129020
+39,39,Male,12,10,Statistician,NGO,50.93,40,Midwest,0,1.0,4.0,On-site,105934
+40,25,Female,18,13,Data Analyst,International Org,53.72,40,Midwest,0,4.0,4.0,Full Remote,111738
+41,46,Female,22,18,Consultant,Private,72.08,40,South,0,2.0,3.0,Full Remote,149926
+42,35,Male,15,15,Policy Analyst,International Org,47.73,40,West,0,1.0,10.0,Hybrid,99278
+43,30,Male,12,13,Statistician,Private,58.96,45,West,0,2.0,8.0,Full Remote,137966
+44,47,Female,13,14,Consultant,Private,66.13,40,Northeast,1,4.0,7.0,Full Remote,137550
+45,23,Male,12,31,Consultant,Government,67.14,45,South,1,4.0,9.0,On-site,157108
+46,41,Female,20,11,Consultant,Academia,70.23,35,West,0,2.0,1.0,Hybrid,127819
+47,49,Female,12,13,Statistician,International Org,53.99,45,South,0,9.0,7.0,Full Remote,126337
+48,28,Male,16,20,Data Analyst,Academia,56.81,40,Northeast,1,4.0,10.0,Full Remote,118165
+49,29,Male,13,20,Academic,Private,54.28,40,Northeast,0,5.0,4.0,On-site,112902
+50,56,Female,16,21,Consultant,Academia,58.79,40,Northeast,0,4.0,7.0,On-site,122283
+51,35,Male,16,17,Economist,Government,61.57,50,Midwest,0,3.0,1.0,Hybrid,160082
+52,38,Male,18,2,Economist,NGO,65.05,40,South,1,6.0,5.0,Full Remote,135304
+53,57,Female,12,25,Data Analyst,Private,63.34,35,Northeast,1,5.0,3.0,Full Remote,115279
+54,61,Female,12,2,Academic,Private,48.41,35,South,0,5.0,5.0,Full Remote,88106
+55,25,Female,12,14,Policy Analyst,Private,52.79,45,Midwest,1,4.0,4.0,Full Remote,123529
+56,23,Female,20,5,Data Analyst,Academia,63.38,40,Midwest,1,4.0,2.0,Hybrid,131830
+57,27,Male,18,11,Economist,Government,61.23,45,Northeast,0,3.0,4.0,Full Remote,143278
+58,63,Male,16,14,Researcher,Academia,58.09,40,Northeast,0,1.0,3.0,Hybrid,120827
+59,25,Female,16,14,Consultant,Government,60.11,40,West,0,1.0,1.0,Hybrid,125029
+60,50,Female,16,15,Data Analyst,Academia,59.63,35,South,1,5.0,10.0,On-site,108527
+61,39,Male,12,24,Consultant,NGO,64.9,50,Northeast,0,6.0,8.0,On-site,168740
+62,47,Female,20,15,Academic,NGO,63.23,40,West,1,6.0,5.0,Hybrid,131518
+63,55,Male,14,10,Statistician,Private,60.07,50,South,0,3.0,4.0,Hybrid,156182
+64,31,Male,14,19,Policy Analyst,Private,65.76,40,Northeast,1,6.0,10.0,Hybrid,136781
+65,57,Male,15,21,Statistician,Government,62.07,40,West,0,5.0,5.0,Hybrid,129106
+66,35,Male,12,2,Consultant,Academia,40.52,40,West,0,6.0,4.0,On-site,84282
+67,52,Male,12,16,Policy Analyst,Private,63.77,40,South,1,1.0,3.0,Hybrid,132642
+68,36,Male,16,17,Researcher,Private,61.12,45,West,1,3.0,5.0,On-site,143021
+69,29,Male,12,9,Consultant,Private,59.64,50,South,1,3.0,4.0,On-site,155064
+70,35,Female,16,23,Data Analyst,Government,62.22,45,South,0,6.0,1.0,Hybrid,145595
+71,44,Female,12,10,Academic,Academia,44.17,45,South,1,2.0,,Hybrid,103358
+72,61,Female,14,13,Policy Analyst,Government,43.97,40,Midwest,0,9.0,10.0,Full Remote,91458
+73,42,Female,13,10,Statistician,Academia,53.41,40,West,0,4.0,10.0,Full Remote,111093
+74,37,Male,14,12,Researcher,Private,45.23,50,South,0,3.0,8.0,Hybrid,117598
+75,39,Male,16,3,Consultant,Government,52.45,35,Northeast,0,5.0,7.0,Full Remote,95459
+76,45,Female,13,0,Data Analyst,Private,44.38,45,Midwest,0,5.0,2.0,On-site,103849
+77,47,Male,16,24,Consultant,Government,69.12,45,Midwest,1,2.0,1.0,Full Remote,161741
+78,46,Female,15,5,Academic,Private,43.83,40,West,0,3.0,3.0,Hybrid,91166
+79,62,Male,16,4,Statistician,Academia,64.58,50,South,1,5.0,5.0,Hybrid,167908
+80,50,Female,20,0,Academic,Government,51.41,40,West,0,4.0,10.0,On-site,106933
+81,36,Male,16,6,Economist,NGO,61.12,40,Midwest,0,3.0,1.0,Hybrid,127130
+82,22,Female,12,1,Statistician,Government,44.16,35,South,0,1.0,3.0,On-site,80371
+83,46,Female,12,25,Statistician,Government,60.08,40,Northeast,1,4.0,3.0,Hybrid,124966
+84,28,Female,13,20,Consultant,Academia,63.48,40,South,1,2.0,5.0,Hybrid,132038
+85,30,Male,16,6,Researcher,Private,55.54,40,Midwest,1,8.0,,Full Remote,115523
+86,45,Female,12,30,Statistician,Government,61.89,45,Northeast,1,7.0,9.0,Hybrid,144823
+87,22,Female,15,19,Data Analyst,Private,64.28,50,South,0,5.0,1.0,On-site,167128
+88,29,Female,16,9,Researcher,Private,51.71,40,Northeast,0,2.0,4.0,Hybrid,107557
+89,45,Female,13,0,Economist,NGO,43.04,40,Northeast,1,4.0,10.0,On-site,89523
+90,32,Female,16,30,Consultant,Private,80.11,50,Midwest,0,6.0,10.0,Hybrid,208286
+91,38,Male,12,0,Consultant,Academia,42.58,35,Northeast,0,3.0,,Full Remote,77496
+92,29,Female,12,0,Policy Analyst,NGO,34.17,35,West,0,2.0,,Full Remote,62189
+93,56,Female,16,20,Academic,Private,53.74,40,Midwest,0,5.0,2.0,Hybrid,111779
+94,56,Female,15,31,Data Analyst,International Org,67.56,40,West,0,5.0,1.0,On-site,140525
+95,54,Male,16,23,Academic,Private,57.44,40,Northeast,0,5.0,6.0,On-site,119475
+96,26,Male,14,16,Researcher,International Org,50.03,50,West,0,5.0,3.0,Hybrid,130078
+97,63,Female,12,16,Researcher,Government,49.85,40,South,0,6.0,7.0,Hybrid,103688
+98,60,Female,18,18,Statistician,Academia,67.89,40,Northeast,0,4.0,,Hybrid,141211
+99,62,Male,16,18,Consultant,Private,67.36,40,South,0,0.0,9.0,Hybrid,140109
+100,49,Female,16,14,Data Analyst,Private,54.39,40,West,1,6.0,7.0,Full Remote,113131
+101,28,Male,13,12,Statistician,Academia,50.36,40,South,0,5.0,4.0,Full Remote,104749
+102,30,Male,16,11,Economist,Academia,59.15,45,Northeast,0,6.0,5.0,Full Remote,138411
+103,29,Male,14,5,Policy Analyst,Government,44.05,45,South,1,6.0,5.0,Full Remote,103077
+104,33,Male,12,9,Policy Analyst,Government,42.81,40,West,0,2.0,5.0,Full Remote,89045
+105,55,Female,20,0,Researcher,Academia,53.73,50,West,0,2.0,10.0,Full Remote,139698
+106,54,Male,12,11,Consultant,Academia,59.05,45,West,1,3.0,9.0,Hybrid,138177
+107,44,Female,22,4,Economist,International Org,60.1,45,Northeast,0,6.0,10.0,Hybrid,140634
+108,45,Female,14,3,Researcher,Academia,54.79,35,West,1,4.0,3.0,On-site,99718
+109,58,Female,12,13,Statistician,International Org,59.47,35,Northeast,1,3.0,6.0,Full Remote,108235
+110,56,Female,15,23,Consultant,Academia,67.79,40,South,1,3.0,8.0,Hybrid,141003
+111,61,Male,18,19,Consultant,Private,76.16,40,West,0,3.0,9.0,Hybrid,158413
+112,43,Female,16,0,Policy Analyst,Government,53.26,40,South,0,4.0,7.0,Full Remote,110781
+113,48,Female,18,4,Researcher,Academia,44.05,40,Midwest,0,2.0,3.0,On-site,91624
+114,56,Male,16,19,Data Analyst,Academia,54.3,45,South,0,4.0,1.0,Full Remote,127062
+115,22,Female,16,4,Data Analyst,Government,36.69,45,Midwest,0,4.0,4.0,On-site,85855
+116,56,Female,18,10,Consultant,Private,67.17,50,South,0,6.0,6.0,On-site,174642
+117,58,Female,12,16,Data Analyst,International Org,47.66,40,Northeast,0,2.0,3.0,Hybrid,99133
+118,35,Female,15,4,Data Analyst,Private,49.24,40,South,0,1.0,1.0,Hybrid,102419
+119,24,Female,12,12,Data Analyst,Private,46.18,40,Northeast,0,5.0,6.0,On-site,96054
+120,22,Male,22,1,Consultant,Private,60.0,40,Northeast,0,5.0,1.0,Hybrid,124800
+121,26,Female,20,7,Data Analyst,Government,60.69,40,West,1,6.0,9.0,Hybrid,126235
+122,47,Female,12,14,Statistician,Private,63.82,40,Northeast,0,6.0,1.0,Full Remote,132746
+123,35,Male,16,0,Researcher,Private,46.44,40,Midwest,0,1.0,6.0,Full Remote,96595
+124,60,Male,20,15,Consultant,Government,73.76,45,West,1,3.0,1.0,Hybrid,172598
+125,48,Male,12,11,Economist,Academia,44.93,35,West,0,3.0,7.0,Hybrid,81773
+126,30,Female,16,16,Statistician,Private,68.23,45,South,0,7.0,3.0,On-site,159658
+127,36,Female,20,13,Economist,NGO,65.23,40,Northeast,0,6.0,6.0,Full Remote,135678
+128,36,Male,12,22,Data Analyst,NGO,50.75,40,Northeast,1,3.0,7.0,On-site,105560
+129,47,Female,16,13,Data Analyst,Government,48.56,40,Midwest,0,4.0,1.0,Full Remote,101005
+130,63,Male,13,8,Researcher,Academia,41.63,40,South,0,1.0,1.0,Hybrid,86590
+131,34,Female,20,12,Researcher,Private,64.73,40,South,0,4.0,5.0,Hybrid,134638
+132,53,Female,22,16,Researcher,NGO,62.95,40,West,1,4.0,6.0,Hybrid,130936
+133,60,Female,20,12,Data Analyst,Government,56.61,40,West,0,1.0,9.0,Full Remote,117749
+134,53,Male,15,12,Consultant,Academia,57.03,35,West,0,2.0,1.0,Hybrid,103795
+135,25,Male,18,6,Data Analyst,Academia,50.6,40,Midwest,1,6.0,4.0,On-site,105248
+136,51,Male,18,6,Academic,Private,63.19,50,Midwest,0,,10.0,Hybrid,164294
+137,58,Male,13,0,Researcher,Government,38.99,40,West,1,2.0,8.0,Hybrid,81099
+138,44,Female,18,25,Economist,Academia,67.72,45,South,0,7.0,10.0,On-site,158465
+139,60,Female,12,2,Researcher,Academia,37.89,40,Midwest,1,5.0,,On-site,78811
+140,36,Female,16,6,Data Analyst,Private,59.59,50,South,0,,3.0,Hybrid,154934
+141,64,Female,12,6,Researcher,Academia,46.41,45,South,1,6.0,2.0,Hybrid,108599
+142,50,Female,12,19,Economist,Private,61.25,40,Northeast,1,7.0,4.0,On-site,127400
+143,57,Female,12,9,Statistician,Academia,54.42,40,West,0,3.0,2.0,Hybrid,113194
+144,34,Female,16,21,Consultant,Government,65.2,45,Northeast,0,5.0,1.0,Full Remote,152568
+145,53,Female,13,6,Statistician,NGO,51.03,40,West,0,6.0,3.0,Hybrid,106142
+146,28,Male,16,14,Consultant,Private,63.82,40,West,0,2.0,7.0,On-site,132746
+147,43,Male,12,5,Statistician,Private,49.6,35,South,0,5.0,1.0,Full Remote,90272
+148,49,Male,13,29,Researcher,Government,57.15,45,West,0,2.0,2.0,On-site,133731
+149,23,Female,15,2,Researcher,Government,41.02,45,South,0,3.0,1.0,Full Remote,95987
+150,63,Female,16,14,Policy Analyst,Private,64.47,35,South,0,1.0,8.0,On-site,117335
+151,27,Male,13,17,Data Analyst,Private,48.52,40,West,0,2.0,5.0,Hybrid,100922
+152,49,Female,16,15,Statistician,NGO,70.94,40,South,1,3.0,8.0,Hybrid,147555
+153,49,Female,18,10,Economist,Government,60.95,35,South,0,3.0,3.0,On-site,110929
+154,41,Male,16,10,Data Analyst,Private,56.0,50,South,0,6.0,7.0,Hybrid,145600
+155,51,Male,12,12,Researcher,Private,52.13,40,Midwest,0,1.0,8.0,Hybrid,108430
+156,32,Female,12,10,Academic,Government,40.08,35,South,0,5.0,6.0,Full Remote,72946
+157,49,Female,18,19,Consultant,Government,70.26,40,Midwest,0,6.0,7.0,Full Remote,146141
+158,46,Female,12,29,Consultant,Private,56.17,45,Midwest,0,6.0,,Full Remote,131438
+159,60,Female,18,7,Consultant,Private,61.72,35,South,0,3.0,8.0,On-site,112330
+160,54,Female,15,1,Researcher,Private,47.9,40,South,1,4.0,5.0,Full Remote,99632
+161,22,Female,20,11,Statistician,Private,65.59,40,Midwest,0,5.0,7.0,Full Remote,136427
+162,48,Female,16,32,Academic,Private,71.14,35,Midwest,1,4.0,1.0,Hybrid,129475
+163,34,Female,22,5,Researcher,Government,63.14,40,South,1,4.0,5.0,Hybrid,131331
+164,62,Male,14,25,Policy Analyst,Private,67.01,40,South,1,4.0,1.0,On-site,139381
+165,24,Male,16,25,Economist,International Org,71.76,40,West,1,4.0,8.0,Full Remote,149261
+166,60,Male,14,7,Data Analyst,Private,46.74,50,Midwest,0,5.0,4.0,Full Remote,121524
+167,27,Female,15,16,Data Analyst,Academia,53.08,45,Midwest,0,2.0,4.0,On-site,124207
+168,29,Female,16,25,Consultant,Private,76.3,50,West,1,3.0,2.0,Hybrid,198380
+169,48,Female,18,8,Policy Analyst,Academia,55.94,40,Midwest,0,2.0,5.0,On-site,116355
+170,30,Male,22,10,Data Analyst,Academia,63.71,50,Northeast,0,1.0,1.0,On-site,165646
+171,58,Male,16,7,Academic,Private,57.12,40,Midwest,1,8.0,9.0,On-site,118810
+172,54,Male,14,3,Economist,International Org,50.41,40,West,1,1.0,5.0,Full Remote,104853
+173,63,Male,14,6,Data Analyst,Government,45.19,35,Northeast,1,10.0,6.0,On-site,82246
+174,45,Female,16,2,Economist,Government,54.8,35,South,1,5.0,,On-site,99736
+175,36,Male,12,12,Researcher,Academia,46.54,40,West,1,6.0,10.0,Hybrid,96803
+176,53,Male,12,5,Academic,NGO,40.67,40,West,0,3.0,10.0,Hybrid,84594
+177,53,Female,14,13,Statistician,Government,62.86,40,South,1,6.0,1.0,Hybrid,130749
+178,45,Male,13,0,Consultant,Private,51.2,40,West,0,4.0,4.0,Full Remote,106496
+179,62,Male,13,14,Statistician,Government,54.86,40,Midwest,0,3.0,7.0,Hybrid,114109
+180,33,Female,12,18,Academic,Private,56.97,40,South,1,0.0,6.0,Hybrid,118498
+181,60,Male,12,0,Consultant,Academia,42.54,40,West,0,5.0,10.0,Hybrid,88483
+182,23,Female,12,14,Consultant,Private,54.3,45,South,0,8.0,1.0,Hybrid,127062
+183,24,Female,22,21,Economist,Private,73.18,45,South,0,2.0,1.0,Hybrid,171241
+184,58,Female,14,2,Academic,Private,47.62,40,South,1,3.0,8.0,Hybrid,99050
+185,38,Male,14,25,Researcher,Government,57.09,40,Northeast,0,6.0,4.0,On-site,118747
+186,23,Female,16,15,Data Analyst,Private,58.99,40,West,1,1.0,5.0,Full Remote,122699
+187,23,Male,12,6,Consultant,Academia,47.25,45,Northeast,0,5.0,7.0,Hybrid,110565
+188,49,Male,20,11,Statistician,International Org,71.47,40,West,1,5.0,8.0,Full Remote,148658
+189,44,Male,16,16,Consultant,NGO,67.48,40,Midwest,1,7.0,10.0,Hybrid,140358
+190,58,Female,12,12,Economist,Government,47.48,35,Midwest,0,5.0,7.0,On-site,86414
+191,53,Male,14,16,Researcher,NGO,53.79,40,Midwest,0,1.0,2.0,On-site,111883
+192,54,Male,18,4,Policy Analyst,Academia,54.31,40,West,0,4.0,4.0,Hybrid,112965
+193,22,Female,20,13,Economist,Academia,66.28,45,South,1,6.0,10.0,On-site,155095
+194,40,Male,15,0,Statistician,Private,55.7,40,South,1,1.0,1.0,Full Remote,115856
+195,23,Male,16,11,Economist,Private,72.16,40,Northeast,1,1.0,10.0,Hybrid,150093
+196,47,Male,12,4,Data Analyst,Private,43.41,45,Northeast,0,2.0,9.0,Full Remote,101579
+197,53,Male,22,6,Data Analyst,Government,53.32,45,Midwest,1,6.0,3.0,On-site,124769
+198,27,Male,12,21,Policy Analyst,Government,47.6,40,Northeast,1,4.0,3.0,Hybrid,99008
+199,53,Male,20,20,Statistician,Government,74.0,40,West,1,5.0,10.0,On-site,153920
+200,25,Female,16,16,Statistician,Private,65.75,40,West,1,8.0,9.0,On-site,136760
+201,32,Male,16,3,Researcher,Academia,43.95,50,Northeast,0,5.0,10.0,Full Remote,114270
+202,38,Male,15,9,Economist,Private,60.53,35,Northeast,0,,3.0,Full Remote,110165
+203,59,Female,12,21,Academic,Government,59.05,50,Northeast,1,3.0,8.0,On-site,153530
+204,45,Male,12,13,Consultant,International Org,55.24,40,Northeast,1,3.0,2.0,Hybrid,114899
+205,26,Female,12,30,Researcher,International Org,58.89,40,Midwest,0,4.0,3.0,Full Remote,122491
+206,55,Male,12,15,Policy Analyst,Academia,51.32,35,Midwest,0,4.0,2.0,Hybrid,93402
+207,27,Male,16,13,Consultant,International Org,65.34,40,Northeast,0,5.0,1.0,Hybrid,135907
+208,43,Male,14,9,Statistician,Private,59.74,40,West,0,4.0,2.0,Full Remote,124259
+209,32,Male,12,13,Economist,International Org,44.55,40,Midwest,0,5.0,8.0,Hybrid,92664
+210,37,Male,22,10,Statistician,Government,74.44,40,West,1,3.0,,Full Remote,154835
+211,54,Male,18,17,Consultant,Private,78.79,50,South,1,1.0,2.0,Hybrid,204854
+212,30,Male,20,19,Economist,Government,70.08,40,West,0,3.0,7.0,On-site,145766
+213,27,Male,22,5,Policy Analyst,Government,64.58,45,Northeast,0,3.0,5.0,On-site,151117
+214,37,Male,12,1,Academic,Government,40.64,35,South,0,3.0,3.0,Hybrid,73965
+215,50,Male,14,0,Consultant,Academia,50.47,40,Midwest,0,6.0,9.0,Full Remote,104978
+216,24,Male,16,16,Policy Analyst,Academia,61.75,35,Midwest,1,7.0,6.0,On-site,112385
+217,41,Male,16,3,Economist,Private,63.93,40,South,1,5.0,1.0,Hybrid,132974
+218,57,Female,12,0,Consultant,Government,34.63,50,West,0,4.0,5.0,Full Remote,90038
+219,40,Male,18,15,Policy Analyst,NGO,58.4,40,Midwest,1,2.0,7.0,On-site,121472
+220,47,Female,12,31,Economist,Academia,71.99,35,Northeast,1,0.0,4.0,On-site,131022
+221,24,Female,12,11,Economist,Private,56.97,40,South,1,4.0,8.0,On-site,118498
+222,40,Male,15,18,Academic,Academia,51.91,40,Northeast,0,3.0,10.0,On-site,107973
+223,41,Female,16,12,Researcher,Private,55.82,40,South,1,5.0,5.0,Full Remote,116106
+224,53,Female,16,11,Consultant,Private,70.54,45,Midwest,0,3.0,9.0,Full Remote,165064
+225,28,Male,12,19,Consultant,International Org,62.73,45,West,0,4.0,9.0,On-site,146788
+226,62,Male,18,9,Policy Analyst,Private,54.26,40,South,0,6.0,9.0,Full Remote,112861
+227,54,Female,13,14,Policy Analyst,Private,52.39,40,South,0,,1.0,Hybrid,108971
+228,61,Female,12,14,Data Analyst,NGO,42.28,40,Northeast,0,3.0,2.0,On-site,87942
+229,60,Male,18,6,Data Analyst,Academia,53.46,35,Midwest,0,4.0,3.0,On-site,97297
+230,39,Male,22,19,Data Analyst,Government,68.04,40,Northeast,0,5.0,4.0,Hybrid,141523
+231,61,Male,18,10,Consultant,Government,68.65,40,Midwest,1,5.0,10.0,On-site,142792
+232,22,Male,18,5,Researcher,Government,55.73,40,Northeast,1,4.0,,On-site,115918
+233,32,Female,16,16,Consultant,Academia,73.14,40,South,0,8.0,10.0,On-site,152131
+234,49,Male,16,4,Data Analyst,Private,51.09,35,Northeast,1,,6.0,Full Remote,92984
+235,46,Male,12,12,Researcher,Government,40.96,40,West,1,4.0,1.0,Hybrid,85197
+236,44,Female,14,11,Researcher,International Org,49.23,40,Midwest,1,3.0,9.0,Hybrid,102398
+237,52,Male,14,20,Policy Analyst,Private,50.93,40,Midwest,0,3.0,6.0,Full Remote,105934
+238,51,Male,13,15,Researcher,Government,45.43,45,South,1,4.0,4.0,Hybrid,106306
+239,63,Female,16,11,Statistician,Private,63.39,35,Midwest,1,4.0,4.0,Full Remote,115370
+240,56,Female,15,18,Policy Analyst,Academia,53.11,40,West,1,3.0,3.0,Hybrid,110469
+241,28,Male,12,23,Economist,Government,54.58,40,Northeast,0,4.0,7.0,On-site,113526
+242,37,Female,12,16,Data Analyst,Private,53.27,45,South,0,3.0,3.0,Full Remote,124652
+243,47,Male,16,12,Data Analyst,NGO,52.98,40,West,1,5.0,,On-site,110198
+244,23,Male,12,1,Researcher,Private,41.48,40,Midwest,0,2.0,10.0,On-site,86278
+245,22,Female,18,3,Academic,Private,57.78,40,Midwest,0,6.0,8.0,Full Remote,120182
+246,33,Male,15,9,Researcher,Private,49.33,45,West,0,5.0,4.0,On-site,115432
+247,26,Male,15,7,Researcher,Government,49.14,50,Northeast,1,1.0,8.0,Hybrid,127764
+248,58,Male,16,10,Policy Analyst,Government,55.26,40,Northeast,1,5.0,1.0,Hybrid,114941
+249,53,Male,18,12,Researcher,Private,51.83,45,South,0,4.0,5.0,On-site,121282
+250,30,Male,13,16,Economist,Government,50.46,50,Midwest,1,0.0,9.0,Hybrid,131196
+251,62,Male,16,11,Statistician,Government,59.78,50,West,0,,1.0,On-site,155428
+252,56,Male,16,15,Data Analyst,NGO,58.77,40,Northeast,1,4.0,4.0,Full Remote,122242
+253,40,Male,13,12,Data Analyst,International Org,57.86,40,South,1,6.0,6.0,On-site,120349
+254,37,Female,18,0,Economist,Academia,60.03,40,Midwest,1,1.0,10.0,Hybrid,124862
+255,24,Female,16,4,Economist,NGO,61.48,45,Midwest,1,2.0,8.0,Hybrid,143863
+256,41,Female,16,10,Statistician,Government,57.02,40,South,0,2.0,3.0,Full Remote,118602
+257,45,Female,18,2,Academic,International Org,53.79,40,South,1,3.0,5.0,On-site,111883
+258,54,Male,18,16,Data Analyst,Government,63.67,40,Northeast,0,3.0,7.0,On-site,132434
+259,45,Male,16,24,Data Analyst,International Org,53.7,45,West,1,1.0,1.0,Hybrid,125658
+260,32,Female,18,21,Statistician,International Org,73.65,45,Midwest,1,3.0,7.0,Hybrid,172341
+261,29,Female,16,10,Researcher,Academia,62.34,35,West,1,3.0,8.0,Hybrid,113459
+262,57,Female,16,23,Statistician,International Org,66.73,45,Midwest,0,3.0,8.0,On-site,156148
+263,59,Male,16,13,Statistician,Private,75.2,40,Midwest,1,2.0,9.0,Hybrid,156416
+264,61,Male,16,9,Policy Analyst,Private,51.68,45,West,0,3.0,6.0,On-site,120931
+265,41,Male,12,7,Economist,Private,53.67,40,South,0,6.0,6.0,On-site,111634
+266,56,Male,18,9,Economist,Private,69.93,40,Northeast,1,2.0,2.0,Hybrid,145454
+267,46,Female,18,8,Statistician,Government,51.33,50,Midwest,0,4.0,3.0,Full Remote,133458
+268,56,Female,12,13,Economist,Academia,51.73,40,South,1,4.0,4.0,Hybrid,107598
+269,46,Male,18,13,Economist,International Org,58.81,45,Midwest,0,3.0,4.0,On-site,137615
+270,50,Female,12,12,Data Analyst,Government,47.09,40,Northeast,0,4.0,8.0,Full Remote,97947
+271,39,Female,13,15,Consultant,Academia,62.89,40,Midwest,1,3.0,1.0,Hybrid,130811
+272,39,Male,16,21,Policy Analyst,International Org,57.7,40,Northeast,0,3.0,10.0,On-site,120016
+273,23,Male,12,19,Policy Analyst,International Org,51.3,40,Northeast,0,6.0,4.0,Hybrid,106704
+274,56,Male,18,0,Statistician,International Org,58.74,40,Midwest,1,7.0,4.0,Hybrid,122179
+275,37,Male,18,0,Academic,Private,57.21,35,Midwest,0,6.0,1.0,Full Remote,104122
+276,62,Male,15,19,Data Analyst,International Org,57.44,40,Northeast,1,,3.0,Full Remote,119475
+277,57,Male,12,1,Economist,Academia,45.43,35,South,0,1.0,5.0,On-site,82683
+278,54,Male,13,10,Researcher,Government,47.34,50,West,1,5.0,6.0,Full Remote,123084
+279,25,Male,16,2,Economist,Private,64.74,50,Northeast,1,2.0,9.0,Hybrid,168324
+280,54,Female,22,0,Data Analyst,Academia,56.92,40,Midwest,1,5.0,9.0,On-site,118394
+281,35,Male,16,16,Policy Analyst,Government,57.31,45,Midwest,0,3.0,9.0,Hybrid,134105
+282,42,Female,13,18,Consultant,Academia,56.67,40,South,1,5.0,1.0,On-site,117874
+283,41,Male,16,7,Data Analyst,Academia,47.6,40,West,1,5.0,9.0,On-site,99008
+284,29,Female,15,0,Researcher,Government,48.75,45,Northeast,1,,8.0,Hybrid,114075
+285,28,Male,16,7,Academic,Private,52.65,50,Northeast,0,6.0,2.0,Full Remote,136890
+286,24,Male,12,15,Economist,Academia,55.78,40,West,1,6.0,1.0,On-site,116022
+287,38,Female,16,0,Statistician,Private,64.36,45,Northeast,1,5.0,1.0,Hybrid,150602
+288,54,Female,15,13,Data Analyst,Government,47.37,40,West,0,5.0,6.0,Full Remote,98530
+289,33,Female,22,11,Data Analyst,Government,60.4,50,Midwest,0,2.0,9.0,On-site,157040
+290,43,Male,13,16,Data Analyst,Private,62.6,35,West,1,4.0,,Full Remote,113932
+291,43,Male,16,12,Academic,International Org,57.16,40,Northeast,0,4.0,5.0,On-site,118893
+292,51,Female,20,4,Researcher,Government,63.69,40,West,1,2.0,2.0,Full Remote,132475
+293,59,Female,12,21,Researcher,Academia,52.07,40,South,1,3.0,1.0,Full Remote,108306
+294,59,Female,20,10,Data Analyst,Government,65.92,35,Midwest,1,3.0,2.0,Full Remote,119974
+295,29,Female,16,11,Consultant,Private,59.6,50,Midwest,0,4.0,1.0,On-site,154960
+296,48,Male,12,4,Academic,NGO,35.37,40,West,0,4.0,3.0,On-site,73570
+297,48,Female,13,8,Consultant,Academia,45.8,40,Northeast,1,2.0,6.0,On-site,95264
+298,55,Male,16,4,Economist,Government,60.89,40,South,0,6.0,8.0,Hybrid,126651
+299,42,Male,12,10,Researcher,Private,48.14,40,Midwest,1,4.0,3.0,Hybrid,100131
+300,51,Male,16,25,Economist,Government,66.29,40,Midwest,0,4.0,,Full Remote,137883
+301,54,Male,13,1,Statistician,Private,48.36,40,Northeast,0,4.0,9.0,Hybrid,100589
+302,49,Male,16,0,Economist,Academia,54.58,40,Northeast,0,6.0,10.0,Hybrid,113526
+303,54,Male,12,23,Researcher,Government,48.9,40,South,0,5.0,5.0,Hybrid,101712
+304,26,Female,18,10,Researcher,Private,57.18,40,West,1,3.0,7.0,Hybrid,118934
+305,40,Male,22,6,Economist,Private,72.97,45,Northeast,0,5.0,8.0,On-site,170750
+306,25,Female,22,20,Data Analyst,International Org,60.87,45,West,0,5.0,3.0,Full Remote,142436
+307,56,Male,16,7,Data Analyst,International Org,44.65,35,South,0,5.0,2.0,On-site,81263
+308,38,Male,12,26,Data Analyst,Government,43.77,40,West,0,4.0,2.0,Full Remote,91042
+309,49,Female,16,17,Economist,Academia,56.3,35,Midwest,0,6.0,5.0,Hybrid,102466
+310,51,Male,12,8,Data Analyst,Private,51.11,35,West,1,2.0,1.0,Hybrid,93020
+311,50,Male,12,29,Consultant,Private,59.14,40,South,0,9.0,2.0,Hybrid,123011
+312,27,Male,13,7,Economist,Academia,44.68,40,South,0,2.0,9.0,Hybrid,92934
+313,56,Male,15,17,Economist,International Org,60.19,40,South,0,2.0,7.0,Hybrid,125195
+314,62,Female,16,14,Data Analyst,International Org,54.03,40,West,1,2.0,6.0,Hybrid,112382
+315,58,Male,16,22,Academic,Private,69.97,35,Midwest,0,3.0,9.0,On-site,127345
+316,45,Female,14,24,Researcher,Private,66.94,45,Northeast,0,6.0,7.0,On-site,156640
+317,50,Male,13,12,Researcher,Academia,46.13,50,Midwest,1,2.0,5.0,On-site,119938
+318,52,Female,22,5,Data Analyst,Private,64.83,35,West,0,4.0,9.0,Full Remote,117991
+319,56,Female,14,15,Policy Analyst,Private,57.2,40,West,0,3.0,6.0,Hybrid,118976
+320,54,Female,15,6,Economist,Private,56.21,45,Northeast,0,9.0,6.0,Hybrid,131531
+321,42,Male,12,28,Researcher,Academia,51.42,50,West,1,,4.0,Hybrid,133692
+322,53,Male,16,13,Academic,Government,51.55,40,South,0,0.0,1.0,Hybrid,107224
+323,44,Male,16,9,Researcher,Government,52.51,35,South,1,4.0,5.0,Hybrid,95568
+324,54,Female,12,13,Consultant,International Org,54.66,35,South,1,4.0,9.0,Full Remote,99481
+325,24,Female,12,1,Researcher,Government,38.97,40,South,0,3.0,8.0,Full Remote,81058
+326,39,Female,16,4,Economist,Private,56.2,40,South,0,3.0,8.0,Full Remote,116896
+327,46,Male,16,21,Academic,Government,51.79,35,West,0,1.0,5.0,On-site,94258
+328,63,Female,13,6,Economist,Government,54.44,40,Northeast,1,6.0,9.0,On-site,113235
+329,52,Female,22,3,Policy Analyst,Government,57.94,35,Northeast,0,8.0,3.0,On-site,105451
+330,24,Male,12,16,Economist,Government,49.49,45,South,0,3.0,3.0,On-site,115807
+331,61,Male,14,21,Economist,NGO,64.51,40,West,0,2.0,1.0,Full Remote,134181
+332,45,Female,20,17,Data Analyst,Private,63.12,35,Midwest,1,6.0,9.0,On-site,114878
+333,53,Female,14,19,Statistician,International Org,57.29,40,Midwest,0,2.0,6.0,On-site,119163
+334,43,Female,16,5,Data Analyst,Private,54.77,40,West,1,6.0,,Hybrid,113922
+335,44,Male,14,0,Policy Analyst,Private,42.66,50,South,0,3.0,8.0,Hybrid,110916
+336,23,Female,13,24,Economist,Private,63.54,40,Northeast,0,3.0,9.0,On-site,132163
+337,48,Male,22,9,Economist,Private,80.48,40,West,0,1.0,9.0,Hybrid,167398
+338,63,Male,14,9,Policy Analyst,Academia,42.2,45,Midwest,0,3.0,2.0,On-site,98748
+339,23,Male,18,22,Data Analyst,Private,75.36,40,Midwest,0,4.0,2.0,Full Remote,156749
+340,47,Female,12,16,Researcher,Private,52.95,50,Midwest,0,4.0,7.0,Full Remote,137670
+341,38,Female,12,15,Researcher,NGO,49.97,40,South,1,3.0,4.0,Hybrid,103938
+342,61,Female,12,29,Consultant,International Org,67.9,40,Midwest,1,2.0,1.0,Hybrid,141232
+343,54,Male,16,6,Researcher,NGO,61.52,35,West,1,8.0,8.0,On-site,111966
+344,30,Female,14,19,Data Analyst,Private,52.63,40,West,0,3.0,2.0,On-site,109470
+345,64,Male,18,12,Researcher,Academia,50.12,45,Midwest,0,4.0,3.0,Hybrid,117281
+346,60,Female,15,14,Statistician,Private,60.38,45,West,0,4.0,5.0,Full Remote,141289
+347,50,Male,22,24,Data Analyst,Private,78.13,40,Midwest,1,7.0,3.0,On-site,162510
+348,63,Male,12,16,Consultant,Government,51.3,40,Midwest,1,4.0,7.0,Hybrid,106704
+349,47,Male,18,16,Data Analyst,Private,62.09,45,Northeast,0,2.0,7.0,Full Remote,145291
+350,56,Male,16,20,Consultant,Government,70.57,50,South,0,2.0,2.0,Hybrid,183482
+351,46,Female,16,9,Consultant,Private,62.81,35,South,0,3.0,7.0,On-site,114314
+352,45,Male,18,5,Consultant,NGO,57.23,40,Northeast,0,4.0,6.0,On-site,119038
+353,34,Male,16,3,Academic,Government,43.13,40,Northeast,0,5.0,10.0,Hybrid,89710
+354,28,Female,16,0,Data Analyst,Government,51.39,45,South,1,6.0,9.0,Hybrid,120253
+355,57,Male,12,28,Data Analyst,Government,54.1,35,Midwest,1,,9.0,On-site,98462
+356,41,Female,12,3,Policy Analyst,International Org,45.79,40,Midwest,0,6.0,2.0,On-site,95243
+357,22,Female,20,10,Data Analyst,Private,69.73,45,South,0,2.0,7.0,Hybrid,163168
+358,29,Female,16,9,Researcher,Private,59.23,35,Midwest,1,2.0,5.0,Hybrid,107799
+359,37,Male,16,14,Researcher,NGO,52.15,40,Northeast,0,5.0,,On-site,108472
+360,35,Female,15,18,Researcher,NGO,56.92,40,Midwest,0,4.0,1.0,Full Remote,118394
+361,33,Female,12,18,Data Analyst,Private,56.78,40,Midwest,0,3.0,7.0,Full Remote,118102
+362,44,Male,12,7,Statistician,Academia,45.58,40,West,0,,6.0,Hybrid,94806
+363,36,Male,16,10,Data Analyst,Academia,47.69,40,West,0,5.0,4.0,Hybrid,99195
+364,49,Female,14,14,Economist,Academia,55.31,40,West,1,1.0,1.0,Hybrid,115045
+365,55,Female,12,10,Consultant,Government,52.24,40,Midwest,0,3.0,9.0,Full Remote,108659
+366,23,Female,15,24,Data Analyst,NGO,59.07,45,South,0,7.0,4.0,On-site,138224
+367,53,Female,12,15,Statistician,Private,57.2,45,Northeast,1,5.0,2.0,Hybrid,133848
+368,44,Female,16,17,Economist,Private,65.18,40,Midwest,0,6.0,8.0,Full Remote,135574
+369,43,Male,13,17,Researcher,Private,52.21,35,South,1,5.0,2.0,Full Remote,95022
+370,46,Male,16,21,Researcher,Government,56.8,40,Midwest,1,4.0,5.0,On-site,118144
+371,43,Male,13,13,Data Analyst,Government,48.4,40,Northeast,0,4.0,6.0,On-site,100672
+372,43,Female,15,1,Economist,Academia,51.67,40,Midwest,1,4.0,8.0,Full Remote,107474
+373,63,Male,12,15,Data Analyst,Government,44.4,40,Northeast,0,5.0,,On-site,92352
+374,27,Female,12,6,Data Analyst,Private,42.69,35,Midwest,1,3.0,1.0,Hybrid,77696
+375,36,Female,14,7,Researcher,Private,50.15,35,Northeast,0,5.0,4.0,On-site,91273
+376,64,Female,15,16,Researcher,Government,55.42,40,Midwest,1,5.0,,Hybrid,115274
+377,58,Male,16,21,Data Analyst,International Org,57.48,40,Northeast,1,0.0,9.0,On-site,119558
+378,54,Female,13,12,Statistician,Government,52.84,40,West,0,5.0,7.0,Full Remote,109907
+379,29,Male,16,14,Academic,Private,57.92,40,Midwest,0,2.0,7.0,Hybrid,120474
+380,26,Female,18,25,Data Analyst,Private,68.14,40,Midwest,1,,8.0,On-site,141731
+381,60,Male,16,13,Researcher,Government,49.69,45,South,1,4.0,5.0,Hybrid,116275
+382,25,Male,12,32,Economist,Government,71.02,45,South,0,3.0,,Hybrid,166187
+383,27,Female,15,16,Data Analyst,Academia,53.07,40,Northeast,1,5.0,1.0,Full Remote,110386
+384,53,Male,12,0,Economist,International Org,44.21,40,Midwest,0,7.0,9.0,On-site,91957
+385,51,Male,12,18,Policy Analyst,Government,51.44,40,Northeast,0,4.0,6.0,Hybrid,106995
+386,56,Female,22,15,Academic,Academia,77.72,40,West,0,2.0,,Hybrid,161658
+387,61,Female,12,22,Data Analyst,Academia,44.82,40,South,0,5.0,3.0,On-site,93226
+388,37,Female,15,17,Economist,NGO,66.0,45,Northeast,1,3.0,5.0,Full Remote,154440
+389,34,Female,16,10,Economist,Private,59.97,40,Northeast,0,0.0,2.0,Hybrid,124738
+390,63,Female,16,2,Data Analyst,Private,51.84,45,South,1,3.0,10.0,On-site,121306
+391,51,Male,16,10,Statistician,Private,59.92,40,Midwest,0,9.0,5.0,Hybrid,124634
+392,40,Male,12,5,Economist,Academia,43.1,40,Northeast,0,4.0,8.0,Hybrid,89648
+393,38,Male,13,7,Consultant,NGO,50.43,45,South,0,5.0,2.0,Hybrid,118006
+394,40,Female,15,16,Data Analyst,Government,45.7,40,Midwest,0,4.0,8.0,On-site,95056
+395,49,Female,12,25,Statistician,Private,68.39,40,West,0,2.0,4.0,Full Remote,142251
+396,47,Male,14,15,Academic,International Org,49.42,40,South,0,3.0,10.0,On-site,102794
+397,58,Male,12,2,Economist,NGO,47.49,35,Northeast,0,4.0,10.0,On-site,86432
+398,47,Female,12,15,Academic,International Org,43.74,50,West,0,5.0,1.0,Full Remote,113724
+399,44,Male,14,21,Data Analyst,Academia,51.33,40,Midwest,0,4.0,5.0,On-site,106766
+400,30,Female,12,7,Consultant,Private,54.95,50,Midwest,0,5.0,1.0,Hybrid,142870
+401,33,Male,16,10,Researcher,Private,54.14,50,South,1,4.0,7.0,Hybrid,140764
+402,22,Female,16,12,Consultant,Academia,61.57,45,South,1,4.0,8.0,On-site,144074
+403,22,Male,18,5,Academic,Government,46.96,40,South,0,5.0,3.0,On-site,97677
+404,55,Female,12,17,Statistician,Private,56.24,40,Midwest,0,5.0,3.0,Full Remote,116979
+405,53,Female,12,11,Academic,Academia,34.76,45,West,0,3.0,7.0,Hybrid,81338
+406,46,Female,12,15,Data Analyst,Government,54.96,40,Midwest,1,3.0,4.0,Hybrid,114317
+407,61,Female,16,4,Data Analyst,Academia,43.45,40,Northeast,0,,3.0,Hybrid,90376
+408,22,Female,16,8,Data Analyst,Private,58.25,40,Midwest,0,1.0,8.0,Hybrid,121160
+409,37,Female,12,17,Policy Analyst,International Org,51.08,40,Northeast,0,6.0,3.0,Full Remote,106246
+410,60,Male,20,9,Statistician,Government,59.26,40,West,0,3.0,7.0,On-site,123261
+411,26,Female,12,25,Policy Analyst,Private,52.25,40,South,0,3.0,2.0,Hybrid,108680
+412,43,Female,15,8,Policy Analyst,Academia,61.04,40,South,1,3.0,1.0,Full Remote,126963
+413,50,Male,16,13,Consultant,Private,71.6,45,Midwest,0,5.0,6.0,On-site,167544
+414,24,Female,18,19,Consultant,Academia,70.67,40,South,1,4.0,8.0,On-site,146994
+415,33,Female,16,0,Data Analyst,Academia,44.83,50,West,0,6.0,1.0,Hybrid,116558
+416,47,Female,18,0,Data Analyst,Government,44.88,40,South,0,3.0,10.0,Hybrid,93350
+417,37,Male,13,0,Statistician,Private,57.13,45,Midwest,1,1.0,9.0,Hybrid,133684
+418,58,Male,18,22,Statistician,Private,70.73,40,West,0,3.0,3.0,Hybrid,147118
+419,43,Female,12,7,Economist,Private,49.67,45,Northeast,1,7.0,3.0,Full Remote,116228
+420,50,Female,18,32,Data Analyst,International Org,61.31,35,Midwest,0,5.0,4.0,On-site,111584
+421,35,Male,15,7,Statistician,NGO,54.28,45,Northeast,0,4.0,1.0,Full Remote,127015
+422,49,Female,18,13,Academic,Academia,54.68,35,West,1,6.0,9.0,Full Remote,99518
+423,26,Female,15,24,Policy Analyst,Academia,56.13,45,Midwest,0,6.0,3.0,Full Remote,131344
+424,51,Male,16,28,Data Analyst,Private,65.3,50,Midwest,1,2.0,10.0,Full Remote,169780
+425,26,Female,15,28,Policy Analyst,International Org,55.67,40,West,0,3.0,4.0,Full Remote,115794
+426,33,Male,16,21,Economist,Academia,71.81,40,South,1,6.0,1.0,On-site,149365
+427,37,Male,12,20,Data Analyst,Academia,49.59,45,Midwest,0,4.0,4.0,Hybrid,116041
+428,47,Male,12,16,Researcher,NGO,46.16,40,Midwest,0,1.0,1.0,Full Remote,96013
+429,47,Female,12,18,Data Analyst,Private,59.92,45,Northeast,1,2.0,,Full Remote,140213
+430,42,Male,12,7,Data Analyst,NGO,46.72,35,South,1,5.0,5.0,On-site,85030
+431,60,Male,18,5,Academic,Government,60.19,35,Northeast,1,3.0,7.0,Hybrid,109546
+432,57,Male,12,11,Consultant,Private,58.36,50,Northeast,1,5.0,8.0,Hybrid,151736
+433,54,Female,22,10,Researcher,Private,67.88,40,South,1,4.0,4.0,On-site,141190
+434,51,Female,13,8,Policy Analyst,International Org,38.0,45,South,0,5.0,7.0,Hybrid,88920
+435,58,Male,12,17,Researcher,NGO,45.08,40,West,0,5.0,4.0,Hybrid,93766
+436,44,Male,16,19,Statistician,Academia,67.06,40,South,0,3.0,3.0,Full Remote,139485
+437,31,Female,16,12,Data Analyst,Academia,56.2,40,Midwest,0,6.0,6.0,Hybrid,116896
+438,26,Male,15,23,Economist,Private,72.64,40,South,0,6.0,4.0,Hybrid,151091
+439,57,Male,16,2,Data Analyst,International Org,37.82,40,West,0,4.0,3.0,On-site,78666
+440,55,Male,16,10,Policy Analyst,Private,59.13,40,West,0,2.0,9.0,Hybrid,122990
+441,52,Male,12,6,Statistician,Private,49.85,40,West,1,3.0,5.0,Hybrid,103688
+442,31,Male,22,0,Academic,Government,58.19,40,South,0,5.0,7.0,Full Remote,121035
+443,40,Male,22,11,Academic,Academia,59.73,45,South,0,5.0,6.0,Full Remote,139768
+444,53,Male,16,11,Researcher,Academia,53.21,40,Northeast,0,3.0,10.0,Hybrid,110677
+445,22,Female,12,24,Policy Analyst,Private,54.67,40,Northeast,1,3.0,,On-site,113714
+446,26,Male,16,17,Consultant,Government,70.68,40,Midwest,1,3.0,,Hybrid,147014
+447,25,Female,12,3,Economist,NGO,44.54,40,Northeast,1,,6.0,On-site,92643
+448,37,Female,12,26,Consultant,Government,57.53,45,Midwest,0,,10.0,Hybrid,134620
+449,45,Male,13,21,Economist,Academia,55.01,40,West,0,1.0,2.0,Full Remote,114421
+450,37,Female,15,16,Consultant,International Org,52.58,35,Northeast,0,6.0,3.0,Full Remote,95696
+451,23,Male,18,10,Statistician,Private,66.78,35,South,0,5.0,2.0,Hybrid,121540
+452,49,Female,16,4,Consultant,Government,61.42,40,Northeast,0,4.0,3.0,Full Remote,127754
+453,53,Male,16,9,Academic,Academia,59.87,45,Midwest,0,2.0,1.0,Full Remote,140096
+454,48,Male,14,20,Economist,NGO,60.59,35,Northeast,0,4.0,8.0,On-site,110274
+455,41,Male,13,27,Data Analyst,Private,68.07,45,West,1,5.0,6.0,Full Remote,159284
+456,45,Female,14,24,Academic,International Org,59.53,40,South,1,5.0,2.0,Hybrid,123822
+457,33,Male,22,8,Data Analyst,Government,61.4,40,Midwest,0,5.0,8.0,Hybrid,127712
+458,56,Female,12,3,Consultant,Private,50.03,50,South,0,6.0,6.0,Hybrid,130078
+459,54,Male,18,13,Policy Analyst,Academia,55.98,40,South,0,6.0,7.0,Hybrid,116438
+460,54,Female,16,0,Data Analyst,NGO,45.95,40,Midwest,0,4.0,1.0,Hybrid,95576
+461,64,Male,14,14,Statistician,Government,58.29,35,South,1,4.0,7.0,Hybrid,106088
+462,58,Female,16,10,Statistician,NGO,57.49,35,South,0,5.0,3.0,On-site,104632
+463,33,Male,15,8,Consultant,Private,63.57,40,Northeast,1,6.0,8.0,On-site,132226
+464,24,Male,18,0,Data Analyst,Private,55.71,35,South,0,4.0,6.0,Full Remote,101392
+465,22,Male,20,16,Policy Analyst,Government,60.34,40,South,1,6.0,4.0,Full Remote,125507
+466,54,Male,14,7,Data Analyst,NGO,44.19,40,South,0,2.0,8.0,On-site,91915
+467,61,Female,13,2,Policy Analyst,Government,51.25,40,South,1,3.0,9.0,Hybrid,106600
+468,31,Male,16,0,Consultant,Private,61.46,40,Midwest,0,4.0,10.0,Hybrid,127837
+469,64,Female,20,11,Academic,Private,72.0,40,West,1,5.0,2.0,Hybrid,149760
+470,50,Male,12,26,Data Analyst,NGO,52.3,40,Northeast,0,4.0,6.0,Full Remote,108784
+471,34,Female,16,25,Consultant,Academia,68.08,50,South,0,6.0,5.0,Hybrid,177008
+472,33,Male,16,8,Consultant,Academia,64.61,35,South,1,2.0,5.0,Hybrid,117590
+473,52,Male,16,7,Policy Analyst,Private,63.24,45,Midwest,1,7.0,10.0,Full Remote,147982
+474,23,Female,12,15,Academic,Academia,41.79,40,West,1,2.0,3.0,Hybrid,86923
+475,56,Male,16,4,Statistician,Private,57.94,40,South,1,3.0,8.0,On-site,120515
+476,44,Male,20,14,Economist,NGO,76.64,40,Midwest,1,7.0,8.0,Hybrid,159411
+477,38,Female,12,18,Consultant,International Org,54.29,35,Northeast,0,2.0,5.0,Full Remote,98808
+478,47,Female,12,21,Data Analyst,Government,46.51,35,Northeast,0,3.0,8.0,Hybrid,84648
+479,29,Male,22,11,Consultant,Academia,64.18,40,South,0,2.0,10.0,On-site,133494
+480,50,Male,12,10,Consultant,Government,52.38,40,South,1,5.0,8.0,On-site,108950
+481,47,Female,18,4,Economist,Private,57.19,50,West,0,1.0,3.0,Hybrid,148694
+482,31,Male,15,5,Consultant,Private,66.36,40,West,0,4.0,2.0,Full Remote,138029
+483,47,Male,12,10,Data Analyst,Private,47.51,35,South,0,2.0,9.0,On-site,86468
+484,55,Male,18,14,Policy Analyst,Private,64.57,45,Midwest,1,4.0,2.0,On-site,151094
+485,62,Female,14,19,Researcher,Academia,53.95,40,West,0,4.0,9.0,Full Remote,112216
+486,28,Female,15,5,Academic,Private,53.85,40,South,0,3.0,4.0,Hybrid,112008
+487,25,Male,14,23,Economist,Academia,65.78,40,West,0,3.0,2.0,Hybrid,136822
+488,32,Male,16,9,Data Analyst,Private,58.49,50,South,0,3.0,10.0,On-site,152074
+489,50,Male,12,11,Researcher,Government,40.68,45,Northeast,0,4.0,1.0,Full Remote,95191
+490,57,Female,14,6,Researcher,Academia,46.61,40,South,1,4.0,4.0,Hybrid,96949
+491,46,Male,22,0,Researcher,Private,66.68,40,Northeast,1,3.0,9.0,On-site,138694
+492,42,Male,13,19,Economist,Private,64.69,50,West,1,5.0,9.0,On-site,168194
+493,57,Female,16,17,Statistician,Academia,61.98,40,South,0,3.0,,On-site,128918
+494,31,Male,13,9,Data Analyst,Private,54.4,35,West,1,5.0,9.0,On-site,99008
+495,58,Female,16,12,Consultant,Government,62.14,40,Northeast,0,1.0,6.0,Full Remote,129251
+496,30,Male,12,16,Statistician,Private,52.09,40,South,0,6.0,,Hybrid,108347
+497,45,Male,22,0,Statistician,International Org,69.46,40,West,1,6.0,10.0,Hybrid,144477
+498,56,Male,15,7,Academic,Academia,45.27,40,Northeast,0,2.0,6.0,On-site,94162
+499,56,Female,12,18,Economist,Academia,58.23,40,West,0,6.0,9.0,Hybrid,121118
+500,57,Female,12,1,Academic,Academia,44.31,35,Midwest,1,6.0,2.0,On-site,80644
